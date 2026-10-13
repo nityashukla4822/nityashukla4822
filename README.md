@@ -115,14 +115,14 @@ const developer = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=visheshb1207&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=visheshb1207&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nityashukla4822&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=nityashukla4822&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visheshb1207&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?nityashukla4822&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
