@@ -141,12 +141,7 @@ const developer = {
 
 ---
 
-## 💼 Experience
 
-- **AI Consultant — Be10x:** AI workshops, enterprise automation opportunities, GenAI solutions, reusable prompt libraries, and deployment documentation.
-- **Data Science Intern — Celebal Technologies:** Demand forecasting, feature engineering, time-series validation, model optimization, and SHAP-based explainability.
-
----
 
 ## 🎯 Areas of Interest
 
