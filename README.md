@@ -2,7 +2,7 @@
 
 # Hi, I'm Nitya 👋
 
-### AI Consultant · Generative AI & Agentic AI · Data Science · Full-Stack Developer
+### AI Engineer· Generative AI & Agentic AI · Data Science · Full-Stack Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&center=true&vCenter=true&width=750&lines=Building+LLM-powered+applications;Developing+AI+agents+and+RAG+workflows;Exploring+cloud+automation+and+data+science;Turning+business+problems+into+practical+solutions." alt="Typing SVG" />
 
